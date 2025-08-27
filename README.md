@@ -50,7 +50,7 @@ Simulate high user traffic and concurrent transactions to evaluate the app’s r
 
 ---
 
-## 📂 Suggested Repository Structure  
+## 📂 Repository Structure  
 ```
 /TestPlan                          → Test strategy & scope documents  
 /TestCases and BugReports          → Excel sheets with detailed test cases and Bug reports & defect tracking   
