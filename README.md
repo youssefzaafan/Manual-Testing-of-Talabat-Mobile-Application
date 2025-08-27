@@ -39,9 +39,14 @@ All test cases were executed manually, and the results were tracked using **Exce
 ---
 
 ## 🔗 Future Improvements  
-In the next phase, this project can be extended with **automation testing** using tools such as:  
-- **Selenium / Appium** – For cross-device functional automation  
-- **Device Farms (e.g., LambdaTest)** – For running scripts across multiple devices and screen sizes  
+In the next phase, this project can be extended with **automation testing** such as:  
+- **Device Farm Integration (e.g., LambdaTest):**
+Execute automated test scripts across a wide range of devices, operating systems, and screen sizes to ensure responsive design and cross-platform compatibility.
+-	**Automated Regression Testing:**
+Given Talabat’s frequent builds and fast-paced release cycles especially when restaurants are added or menus updated automating regression tests ensures that critical user flows remain stable and functional.
+- **Performance Testing Under Load:**
+Simulate high user traffic and concurrent transactions to evaluate the app’s responsiveness, stability, and scalability during peak usage.
+ 
 
 ---
 
