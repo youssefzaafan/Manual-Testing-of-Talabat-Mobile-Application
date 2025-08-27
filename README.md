@@ -29,7 +29,7 @@ The goal is to validate core functionalities such as **search, ordering, checkou
 - **Payment Gateway** (different payment methods)  
 - **UI Testing** (responsiveness, alignment, and usability)  
 - **Performance Scenarios** (slow loading, poor network conditions)
-- **Compatibility Testing** (different decives & differen OS)  
+- **Compatibility Testing** (different decives & different OS)  
 
 ---
 
