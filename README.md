@@ -1,5 +1,7 @@
 # Talabat App Manual Testing Project  
 
+![Project Banner](./assets/project-banner.png)
+
 ## 📌 Project Overview  
 This project documents the **manual testing process** of the Talabat mobile application.  
 The goal is to validate core functionalities such as **search, ordering, checkout, and customer support**, ensuring that the application works as expected and provides a smooth user experience.  
@@ -7,9 +9,9 @@ The goal is to validate core functionalities such as **search, ordering, checkou
 ---
 
 ## 🛠 Tools Used  
-- **Excel** → For writing and tracking test cases  
-- **Word** → For preparing test reports and detailed documentation  
-- **Trello** → For managing tasks, tracking progress, and maintaining the bug list  
+- **Excel** → For writing and tracking test cases and preparing test reports with detailed documentation  
+- **Word** → For preparing test plan 
+- **Trello** → For managing tasks, tracking progress.
 
 ---
 
@@ -17,7 +19,7 @@ The goal is to validate core functionalities such as **search, ordering, checkou
 - ✅ **Test Plan** – High-level strategy and scope of testing  
 - ✅ **Test Cases** – Designed in Excel covering different modules (search, order, payment, etc.)  
 - ✅ **Bug Reports** – Documented defects with detailed description, steps to reproduce, and screenshots (if available)  
-- ✅ **Test Summary Report** – Final results and insights after execution  
+  
 
 ---
 
@@ -25,8 +27,9 @@ The goal is to validate core functionalities such as **search, ordering, checkou
 - **Search Functionality** (valid & invalid inputs)  
 - **Order Placement** (menu selection, cart, checkout)  
 - **Payment Gateway** (different payment methods)  
-- **UI/UX Testing** (responsiveness, alignment, and usability)  
-- **Performance Scenarios** (slow loading, poor network conditions)  
+- **UI Testing** (responsiveness, alignment, and usability)  
+- **Performance Scenarios** (slow loading, poor network conditions)
+- **Compatibility Testing** (different decives & differen OS)  
 
 ---
 
@@ -38,20 +41,22 @@ All test cases were executed manually, and the results were tracked using **Exce
 ## 🔗 Future Improvements  
 In the next phase, this project can be extended with **automation testing** using tools such as:  
 - **Selenium / Appium** – For cross-device functional automation  
-- **Device Farms (e.g., LambdaTest, BrowserStack)** – For running scripts across multiple devices and screen sizes  
+- **Device Farms (e.g., LambdaTest)** – For running scripts across multiple devices and screen sizes  
 
 ---
 
 ## 📂 Suggested Repository Structure  
 ```
-/TestPlan           → Test strategy & scope documents  
-/TestCases          → Excel sheets with detailed test cases  
-/BugReports         → Bug reports & defect tracking  
-/TestSummary        → Final test summary reports  
-/Docs               → Any additional documentation (Word/Trello exports)  
-README.md           → Project documentation file  
+/TestPlan                          → Test strategy & scope documents  
+/TestCases and BugReports          → Excel sheets with detailed test cases and Bug reports & defect tracking   
+/assets                            → Any additional documentation   
+README.md                          → Project documentation file  
 ```
 
 ---
 
-✍️ **Author**: Youssef Zaafan  
+## 👨‍💻 Author
+
+Youssef Zaafan Atya  
+Email: youssefzafan@gmail.com  
+LinkedIn: [Youssef Zaafan](https://www.linkedin.com/in/youssef-zaafan-211482169)
